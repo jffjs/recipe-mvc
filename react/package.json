@@ -1,0 +1,20 @@
+{
+  "name": "recipe-mvc-react",
+  "version": "1.0.0",
+  "description": "Recipe MVC implemented with React",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Jeff Smith",
+  "license": "MIT",
+  "dependencies": {
+    "ingredientparser": "0.0.3",
+    "react": "^0.13.3"
+  },
+  "devDependencies": {
+    "babelify": "^6.1.3",
+    "beefy": "^2.1.5",
+    "watchify": "^3.3.0"
+  }
+}
