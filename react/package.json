@@ -4,6 +4,7 @@
   "description": "Recipe MVC implemented with React",
   "main": "index.js",
   "scripts": {
+    "start": "node_modules/.bin/beefy index.jsx -- -t babelify",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "Jeff Smith",
